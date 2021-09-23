@@ -1,0 +1,59 @@
+.container {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    max-width: 500px;
+    border-radius: 1rem;
+    background-color: bisque;
+}
+
+label {
+    padding: 1rem;
+    margin: 1rem;
+}
+
+input {
+    margin: 1rem;
+}
+
+button {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: rgb(250, 181, 98);
+    border-radius: 2rem;
+}
+
+div {
+    margin-top: 2rem;
+}
+
+.footer {
+    background-color: rgb(250, 181, 98);
+    border-radius: 1rem;
+    text-align: center;
+    padding: .1rem;
+    margin-top: 2rem;
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+  .footer-title {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+  
+  }
+  
+  .footer-links {
+    color: white;
+    text-decoration-line: none;
+    padding: 1rem;
+    font-weight: bolder;
+  }
+  
+  .unordered {
+    text-align: justify;
+  }
