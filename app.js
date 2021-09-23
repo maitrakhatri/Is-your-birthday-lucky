@@ -38,7 +38,7 @@ checkButton.addEventListener("click", function clcikHandler() {
     result.style.display = "none";
     var sumUsed = sumOfDOB(bday);
 
-    if (sumUsed == "" || luckyNumber == "") {
+    if (sumUsed == "" || luckyNumber.value == "") {
         displayResult("Enter both values");
     } else {
         luckChecker(sumUsed, luckyNumber)
