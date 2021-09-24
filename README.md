@@ -3,4 +3,10 @@
 It takes your Birthday and Lucky Number to see whether your Birthday is Lucky or not.
 ## how it works
 The App calcukates wheather the sum of your birthday is divisible by your lucky number, if yes then it shows your Birthday is lucky.
+
+## technology stack used
+- html
+- css
+- Vanilla JS
+
 ### Check out the [Live App](https://isyourbirthdaylucky-mk.netlify.app/)
